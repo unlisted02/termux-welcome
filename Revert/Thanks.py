@@ -20,6 +20,6 @@ def write(in_text):
 		sys.stdout.flush()
 write(f"\n{gr}[+]{re} Thanks for using my tool...")
 print("\n------------------------")
-print("\nsupport us to make more tools")
+print("\nsupport me to make more tools")
 print("\n------------------------")
 print('\n')

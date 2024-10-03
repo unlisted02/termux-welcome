@@ -8,12 +8,16 @@ clear
 echo -e "Created By \e[5mAmshenShanu"
 echo "----------------------------" | lolcat
 echo "
-o      o        8
-8      8        8
-8      8 .oPYo. 8 .oPYo. .oPYo. ooYoYo. .oPYo.
-8  db  8 8oooo8 8 8      8    8 8' 8  8 8oooo8
- b.PY.d' 8.     8 8    . 8    8 8  8  8 8.
-  8  8'   Yooo  8  YooP   YooP  8  8  8  Yooo " | lolcat
+
+  _    _       _ _     _           _ 
+ | |  | |     | (_)   | |         | |
+ | |  | |_ __ | |_ ___| |_ ___  __| |
+ | |  | | '_ \| | / __| __/ _ \/ _` |
+ | |__| | | | | | \__ \ ||  __/ (_| |
+  \____/|_| |_|_|_|___/\__\___|\__,_|
+                                     
+                                     
+" | lolcat
 echo ""
   
 date | lolcat
